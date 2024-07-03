@@ -4,7 +4,7 @@ import searchIcon from '../assets/www.biotechpackages.com/images/search.png';
 import logo from '../assets/www.biotechpackages.com/logo.png';
 import blackarrow from '../assets/www.biotechpackages.com/images/blackarrow.png';
 import menuIcon from '../assets/www.biotechpackages.com/images/icons/menu.png';
-import bLogo from '../assets/www.biotechpackages.com/images/B_logo.png';
+// import bLogo from '../assets/www.biotechpackages.com/images/B_logo.png';
 import cross from '../assets/www.biotechpackages.com/images/icons/cross.png';
 import FB from '../assets/www.biotechpackages.com/images/icons/fb.png';
 import insta from '../assets/www.biotechpackages.com/images/icons/insta.png';
