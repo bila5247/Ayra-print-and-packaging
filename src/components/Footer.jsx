@@ -74,16 +74,16 @@ const Footer = () => {
                   <a href="/">
                     <li>Home</li>
                   </a>
-                  <a href="/Abot">
+                  <a href="/About">
                     <li>About us</li>
                   </a>
-                  <a href="/Custo">
+                  <a href="/Custom">
                     <li>Custom Packaging</li>
                   </a>
-                  <a href="/Contac">
+                  <a href="/Contact">
                     <li>Contact us</li>
                   </a>
-                  <a href="/Sticke">
+                  <a href="/Sticker">
                     <li>Stickers & Label</li>
                   </a>
                 </ul>
@@ -94,7 +94,7 @@ const Footer = () => {
                   <a href="#">
                     <li>Culture and Values</li>
                   </a>
-                  <a href="/Caree">
+                  <a href="/Career">
                     <li>Career</li>
                   </a>
                   <a href="#">
@@ -127,16 +127,16 @@ const Footer = () => {
                       <a href="/">
                         <li>Home</li>
                       </a>
-                      <a href="/Abot">
+                      <a href="/About">
                         <li>About us</li>
                       </a>
-                      <a href="/Custo">
+                      <a href="/Custom">
                         <li>Custom Packaging</li>
                       </a>
-                      <a href="/Contac">
+                      <a href="/Contact">
                         <li>Contact us</li>
                       </a>
-                      <a href="/Sticke">
+                      <a href="/Sticker">
                         <li>Stickers & Label</li>
                       </a>
                     </ul>
@@ -163,7 +163,7 @@ const Footer = () => {
                       <a href="#">
                         <li>Culture and Values</li>
                       </a>
-                      <a href="/Caree">
+                      <a href="/Career">
                         <li>Career</li>
                       </a>
                       <a href="#">
@@ -196,7 +196,7 @@ const Footer = () => {
             </div>
             <div className="icon_image">
               <a
-                href="https://www.facebook.com/BiotechPackagesLahore"
+                href="#"
                 target="_blank"
               >
                 <img
@@ -211,7 +211,7 @@ const Footer = () => {
                 />
               </a>
               <a
-                href="https://www.instagram.com/biotechpackagespvt/"
+                href="#"
                 target="_blank"
               >
                 <img
@@ -226,7 +226,7 @@ const Footer = () => {
                 />
               </a>
               <a
-                href="https://www.linkedin.com/company/biotechpackages-pvt-ltd/"
+                href="#"
                 target="_blank"
               >
                 <img

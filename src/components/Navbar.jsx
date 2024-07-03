@@ -4,7 +4,7 @@ import searchIcon from '../assets/www.biotechpackages.com/images/search.png';
 import logo from '../assets/www.biotechpackages.com/logo.png';
 import blackarrow from '../assets/www.biotechpackages.com/images/blackarrow.png';
 import menuIcon from '../assets/www.biotechpackages.com/images/icons/menu.png';
-import bLogo from '../assets/www.biotechpackages.com/images/B_logo.png';
+// import bLogo from '../assets/www.biotechpackages.com/images/B_logo.png';
 import cross from '../assets/www.biotechpackages.com/images/icons/cross.png';
 import FB from '../assets/www.biotechpackages.com/images/icons/fb.png';
 import insta from '../assets/www.biotechpackages.com/images/icons/insta.png';
@@ -12,17 +12,13 @@ import linked from '../assets/www.biotechpackages.com/images/icons/linked.png';
 import question from '../assets/www.biotechpackages.com/images/icons/question.svg'
 // import './styles.css'; // Make sure to include your CSS file
 
-function Navbar({ componentName }) {
-  const linkColor = componentName === 'test' ? 'black' : 'white';
-  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
-
+const Navbar = () => {
+ 
   const toggleSidebar = () => {
     setIsSidebarOpen(!isSidebarOpen);
   }
 
-  useEffect(() => {
-    console.log(`Component name is: ${componentName}`);
-  }, [componentName]);
+  
    return (
     <>
       <div className="main_headers">
@@ -220,7 +216,7 @@ function Navbar({ componentName }) {
                     width="64"
                     height="48"
                     decoding="async"
-                    src={bLogo}
+                    src={logo}
                     style={{ color: 'transparent' }}
                   />
                 </a>
