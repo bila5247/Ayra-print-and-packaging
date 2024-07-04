@@ -14,7 +14,7 @@ import StickersLabels from './pages/Stickers';
 import About from './pages/About';
 import Careers from './pages/Career';
 import Contact from './pages/Contacts';
-import Navbar from './components/Navbar';
+// import Navbar from './components/Navbar';
 
 import Advertisingboxes from './pages/Custom/advertising-boxes'
 import BathBombBoxes from './pages/Custom/BathBombBoxes'
@@ -66,7 +66,7 @@ function App() {
             path="/"
             element={
               <Layout>
-                <Navbar />
+                {/* <Navbar /> */}
                 <Header />
                 <Carousel />
                 <Abot />

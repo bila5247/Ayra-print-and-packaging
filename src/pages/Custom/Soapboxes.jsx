@@ -60,7 +60,7 @@ const advertisingboxes = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="container">
+                    {/* <div className="container">
                         <div className="responsive_header index1">
                             <div className="topbar">
                                 <div className="logo">
@@ -78,7 +78,7 @@ const advertisingboxes = () => {
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     <div className="hide_res">
                         <div className="hover_search2">
                             <div className="container">

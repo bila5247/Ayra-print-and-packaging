@@ -80,7 +80,7 @@ const Footer = () => {
                   <a href="/Custom">
                     <li>Custom Packaging</li>
                   </a>
-                  <a href="/Contact">
+                  <a href="/Contacts">
                     <li>Contact us</li>
                   </a>
                   <a href="/Sticker">
@@ -133,10 +133,10 @@ const Footer = () => {
                       <a href="/Custom">
                         <li>Custom Packaging</li>
                       </a>
-                      <a href="/Contact">
+                      <a href="/Contacts">
                         <li>Contact us</li>
                       </a>
-                      <a href="/Sticker">
+                      <a href="/Stickers">
                         <li>Stickers & Label</li>
                       </a>
                     </ul>

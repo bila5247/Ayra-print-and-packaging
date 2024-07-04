@@ -257,19 +257,19 @@ function Navbar({ componentName }) {
                 </h4>
                 <hr />
                 <ul>
-                  <a className="non_active" href="Custom">
+                  <a className="non_active" href="/Custom">
                     Custom Packaging
                   </a>
-                  <a className="non_active" href="Sticker">
+                  <a className="non_active" href="/Sticker">
                     Stickers &amp; Labels
                   </a>
-                  <a className="non_active" href="About">
+                  <a className="non_active" href="/About">
                     About
                   </a>
-                  <a className="non_active" href="Career">
+                  <a className="non_active" href="/Career">
                     Careers
                   </a>
-                  <a className="non_active" href="Contact">
+                  <a className="non_active" href="/Contacts">
                     Contact
                   </a>
                 </ul>
@@ -279,8 +279,12 @@ function Navbar({ componentName }) {
                 <h4>Quick Links</h4>
                 <div>
                   <div className="Links">
-                    <h3>Packaging</h3>
-                    <h3>Stickers</h3>
+                  <a className="non_active" href="/Custom">
+                    <h3>Custom Packaging</h3>
+                    </a>
+                    <a className="non_active" href="/Sticker">
+                    <h3>Stickers &amp; Labels</h3>
+                    </a>
                   </div>
                 </div>
               </div>

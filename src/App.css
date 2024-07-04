@@ -15,10 +15,10 @@ body, html {
     top: 0;
   }
   
-  main {
+  /* main {
     margin-top: 2em; /* Adjust this if using fixed navbar */
-    padding: 1em;
-  }
+    /* padding: 1em; */
+  /* } */ 
   
   footer.footer {
     width: 100%;
