@@ -8,6 +8,8 @@ import Group54 from "../assets/www.biotechpackages.com/images/Group54.png";
 import Group55 from "../assets/www.biotechpackages.com/images/Group55.png";
 
 const Footer = () => {
+    
+  
   return (
     <>
       <div className="main-footer-one">
