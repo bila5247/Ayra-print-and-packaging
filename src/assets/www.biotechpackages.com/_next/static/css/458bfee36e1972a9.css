@@ -3302,11 +3302,11 @@
     gap: 25px !important
 }
 
-@media screen and (max-width:575px) {
+/* @media screen and (max-width:575px) {
     .main_headers {
         padding-top: 10px
     }
-}
+} */
 
 .main_headers a {
     text-decoration: none !important;
